@@ -1,0 +1,6 @@
+__pycache__/
+.dockerignore
+docker-compose.yml
+Dockerfile
+Pipfile
+Pipfile.lock
